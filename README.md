@@ -18,7 +18,7 @@ The file repevo_rec.m is the reputation process for recovery analysis, and the f
 
 The file repevo_rec.m is the reputation process for recovery analysis, and the file recovery_prob_time.m is the collection of numerical calculation code for recovery analysis.
 
-The game_pop_structure contains the raw data of possible population (strategy) compositions and game compositions of different population size and group size. Note that, this folder does not contain the game composition probability results for co-evolution process, which is too large to upload. Please run the code block in section 3 of latool_code.m to obtain them.
+The game_pop_structure folder contains the raw data of possible population (strategy) compositions and game compositions of different population size and group size. Note that, this folder does not contain the game composition probability results for co-evolution process, which is too large to upload. Please run the code block in section 3 of latool_code.m to obtain them.
 
 The parsave folder contains the custom saving functions in parfor loop. 
 
