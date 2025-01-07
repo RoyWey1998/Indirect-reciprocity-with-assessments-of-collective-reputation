@@ -1,6 +1,6 @@
 # Indirect-reciprocity-with-assessments-of-collective-reputation
 
-This repository includes custom code for Indirect reciprocity with assessments of collective reputation
+This repository includes custom code for Indirect reciprocity in the public goods game with collective reputations
 
 The code folder includes all the basic code for the simulation and calculation. The 'default' files (default.m, default_unfixedk.m, ladefault.m, and ladefault_5.m) contain default parameter values for the reputation process of strategy evolution with fixed k, unfixed k, assessment criterion (\lambda) evolution, and co-evolution of lambda and strategy, respectively.
 
